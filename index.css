@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Roboto:wght@400;500;900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.headers {
+  font-family: 'Patua One', cursive;
+  text-decoration: none;
+}
+
+#header {
+  position: fixed;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0 5%;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+#navBar {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+#title {
+  align-self: center;
+  font-size: 2rem;
+  color: black;
+}
+
+.navLinks {
+  color: black;
+font-size: 1.1rem;
+}
