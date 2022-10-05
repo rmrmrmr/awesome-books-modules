@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>Awesome Books ES6</title>
+</head>
+<body>
+  <header id="header">
+    <a href="index.html" class="headers" id="title">Awesome Books</a>
+    <ul id="navBar">
+      <li><a href="#list" class="headers navLinks" id="navList">List</a></li>
+      <li><a href="#addNew" class="headers navLinks" id="navAddNew">Add New</a></li>
+      <li><a href="#contact" class="headers navLinks" id="navContact">Contact</a></li>
+    </ul>
+  </header>
+  <section id="list">
+    <p id="date"></p>
+    <div id="listWrap">
+      <h1 class="sectionHeader headers">
+        All awesome books
+      </h1>
+      <div id="booksList"></div>
+    </div>
+    <div id="divider"></div>
+  </section>
+  <section id="addNew">
+    <h2 class="sectionHeader headers">
+      Add a new book
+    </h2>
+    <form action="submit" id="booksForm">
+      <input type="text" name="bookTitle" id="bookTitle" class="formInput" placeholder="Title">
+      <input type="text" name="authorName" id="authorName" class="formInput" placeholder="Author">
+      <button type="submit" id="formBttn" class="formInput">Add</button>
+    </form>
+  </section>
+  <section id="contact">
+    <h2 class="sectionHeader headers">
+      Contact Information
+    </h2>
+    <h3 id="contactPrompt" class="contactText">
+      Do you have any questions or do you want to say 'Hello'?<br>You can reach out to us!
+    </h3>
+    <ul id="contactInfo">
+      <li><p class="contactText">Our e-mail: mail@mail.com</p></li>
+      <li><p class="contactText">Our phone number: 55 55555555</p></li>
+      <li><p class="contactText">Our address: streetname 77, 03400 Barcelona, Catalunya</p></li>
+    </ul>
+  </section>
+  <script src="index.js" type="module"></script>
+</body>
+</html>
