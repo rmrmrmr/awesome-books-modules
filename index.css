@@ -145,3 +145,7 @@ section {
   color: white;
   align-self: center;
 }
+
+#divider {
+  display: none;
+}
