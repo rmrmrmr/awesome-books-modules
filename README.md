@@ -2,55 +2,32 @@
 
 # Project Name
 
-> Description the project.
+> In this project I based myself on my previour Awesome Books projects and refactored it so that the JavaScript was implemented with modules instead of a single file
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rmrmrmr.github.io/awesome-books-modules/#list)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+To get a local copy up and running please clone this repository into your local environment.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ricardo Martínez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rmrmrmr](https://github.com/rmrmrmr)
+- Twitter: [@ricmtza](https://twitter.com/ricmtza)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ricardomtz7714/)
 
 ## 🤝 Contributing
 
@@ -64,9 +41,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to the Microverse project
 
 ## 📝 License
 

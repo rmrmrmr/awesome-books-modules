@@ -1,6 +1,8 @@
 import { addBook } from './modules/createBooks.js';
 import { displayList, displayAddNew, displayContact } from './modules/functions.js';
-import { form, navList, navAddNew, navContact, listBooks } from './modules/selectors.js';
+import {
+  form, navList, navAddNew, navContact, listBooks,
+} from './modules/selectors.js';
 
 const eventListeners = () => {
   // add book
