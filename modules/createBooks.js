@@ -51,7 +51,7 @@ export default class Books {
 export const addBook = (e) => {
   e.preventDefault();
 
-  const tittleValue = document.getElementById('bookTitle').value
+  const tittleValue = document.getElementById('bookTitle').value;
   const author = document.getElementById('authorName').value;
   const id = Date.now();
 
